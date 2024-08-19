@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Absolutepos</string>
+    <string name="textwelcome">      Введите имя, номер телефона или адрес электронной почты для регистрации</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texthintcreate">Вы всегда можете изменить данные в настройках</string>
+    <string name="ifintonlycreate">Отметьте галочкой, если ваше заведение\nтолько начала работу</string>
+    <string name="talkaboutbiznes">Расскажите немного больше о вашем\nбизнесе, чтобы мы смогли подобрать для\n вас полезные инструменты </string>
+    <string name="typeservice">Какие типы сервисов вы\nбудете будете предоставлять в\nвашем заведение? </string>
+    <string name="finaltext">Наш менеджер скоро свяжется с вами для \nпредоставления доступа к сервису </string>
+
+
+</resources>
